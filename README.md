@@ -27,8 +27,10 @@ I'm Chris, a Software Engineering Student at the University of Calgary
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 <!--### :desktop_computer: Homelab and Things-->
+<!--
 ![Plex](https://img.shields.io/badge/plex-%23E5A00D.svg?style=for-the-badge&logo=plex&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+-->
 
 
 ### :rocket: Teams
