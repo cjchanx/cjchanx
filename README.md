@@ -15,10 +15,10 @@ I'm Chris, a Software Engineering Student at the University of Calgary
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+<a href="https://www.freertos.org/features.html" rel="FreeRTOS">![FreeRTOS](https://img.shields.io/badge/FreeRTOS-%23green.svg?style=for-the-badge)</a>
 
 <!--### :floppy_disk: Frameworks and Platforms-->
 <a href="https://www.st.com/" rel="STMicro">![STMicro](https://user-images.githubusercontent.com/78698227/185344511-0296b5ed-15a3-4013-a98a-6dcd38222382.svg)</a>
-<a href="https://www.freertos.org/features.html" rel="FreeRTOS">![FreeRTOS](https://img.shields.io/badge/FreeRTOS-%23green.svg?style=for-the-badge)</a>
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
