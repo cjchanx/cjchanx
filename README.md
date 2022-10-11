@@ -42,7 +42,7 @@ I'm Chris, a Software Engineering Student at the University of Calgary
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cjchanx&count_private=true&show_icons=true&theme=COBALT&bg_color=03234b&title_color=f3f3f3&text_color=b2b2b2)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cjchanx&count_private=true&show_icons=true&theme=COBALT&bg_color=03234b&text_color=b2b2b2&title_color=f3f3f3)
 
 
 
