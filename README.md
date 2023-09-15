@@ -53,7 +53,7 @@ I'm Chris, a Software Engineering Student at the University of Calgary
   <td><b> <a href="https://github.com/StudentOrganisationForAerospaceResearch" rel="AvionicsSoftware"><img alt="AvionicsSoftware" src="https://user-images.githubusercontent.com/78698227/194955901-54a12bca-59ed-47cb-b7e6-3c6185ff94d5.png" width="50"/>
   </b></td>
   <thread align="center">
-  <td><b> <a href="https://github.com/UCSolarCarTeam" rel="SolarCarSoftware"><img alt="SolarCar" src="https://github.com/cjchanx/cjchanx/assets/78698227/e9fdb21b-8847-48e8-9d9e-d8a0c2b29367" width="120"/>
+  <td><b> <a href="https://github.com/UCSolarCarTeam" rel="SolarCarSoftware"><img alt="SolarCar" src="https://github-production-user-asset-6210df.s3.amazonaws.com/78698227/268400241-e9fdb21b-8847-48e8-9d9e-d8a0c2b29367.png" width="120"/>
   </b></td>
 
 </table>
