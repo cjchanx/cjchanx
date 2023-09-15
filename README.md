@@ -47,7 +47,7 @@ I'm Chris, a Software Engineering Student at the University of Calgary
 -->
 
 
-## :computer: My Teams
+## 🏁 My Teams
 <table>
   <thread align="center">
   <td><b> <a href="https://github.com/StudentOrganisationForAerospaceResearch" rel="AvionicsSoftware"><img alt="AvionicsSoftware" src="https://user-images.githubusercontent.com/78698227/194955901-54a12bca-59ed-47cb-b7e6-3c6185ff94d5.png" width="50"/>
